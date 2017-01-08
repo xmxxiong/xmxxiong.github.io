@@ -1,6 +1,6 @@
 ---
 layout: default
-img: shuijiao.jpg
+img: xizhuang.jpg
 category: My Q son
 title: My first Blog
 description: |

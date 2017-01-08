@@ -1,6 +1,6 @@
 ---
 layout: default
-img: xizhuang.jpg
+img: shuijiao.jpg
 category: My Q Son
 title: SiDan have lots of stage names
 description: |
