@@ -1,6 +1,6 @@
 ---
 layout: default
-img: psb.jpg
+img: shuijiao.jpg
 category: My Q son
 title: My first Blog
 description: |
