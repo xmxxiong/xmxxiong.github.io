@@ -1,7 +1,7 @@
 ---
 layout: default
-img: ipad.png
-category: Services
+img: psb.jpg
+category: My Q son
 title: My first Blog
 description: |
 ---

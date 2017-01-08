@@ -1,8 +1,10 @@
 ---
 layout: default
-img: phones.png
-category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+img: psb(2).jpg
+category: My Q Son
+title: SiDan have lots of stage names
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+SiDan have some stage names:DanBo
+                            DanShe
+                            DanWa

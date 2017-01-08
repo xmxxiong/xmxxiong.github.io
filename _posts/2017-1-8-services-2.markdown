@@ -1,10 +1,10 @@
 ---
 layout: default
-img: dog.png
-category: Services
-title: 3D Device Mockups<br>by PSDCovers
+img: psb(1).jpg
+category: My Q Son
+title: SiDan have the Ultimate skills
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  SiDan have three Ultimate skills:Golden Finger! 
+                                   Rolling his eyes!
+                                   Stepping on the snakeskin to take place!
