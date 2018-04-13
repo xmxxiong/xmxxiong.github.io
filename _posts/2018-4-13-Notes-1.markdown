@@ -3,8 +3,16 @@ layout: default
 category: My Q son
 title: My first Blog
 ---
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        {{ post.excerpt }}
+      </li>
+    {% endfor %}
+  </ul>
   <h2>{{page.titl}}</h2>
 
   <p>最新文章</p>
-  
+  {{ page.excerpt | markdownify }}
   # My Q son:SiDan:BaBa Love You!!!
