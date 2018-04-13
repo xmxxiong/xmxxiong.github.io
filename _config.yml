@@ -4,7 +4,7 @@ bio:                '学习、分享'
 description:        "记录、分享所学到的东西."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/熊猫1.png'
+logo:               'assets/img/熊猫1.webp'
 background:         'assets/img/background.webp'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
