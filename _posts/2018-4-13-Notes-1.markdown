@@ -1,8 +1,10 @@
 ---
 layout: default
-img: xizhuang.jpg
 category: My Q son
 title: My first Blog
-description: |
 ---
+  <h2>{{page.titl}}</h2>
+
+  <p>最新文章</p>
+  
   My Q son:SiDan:BaBa Love You!!!
