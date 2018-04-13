@@ -5,7 +5,7 @@ description:        "记录、分享所学到的东西."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/熊猫1.png'
-background:         'assets/img/红桥.jpg'
+background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://xmxxiong.github.io/
@@ -55,7 +55,7 @@ github-url:         xmxxiong
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
-weibo:              u/3192316240
+weibo:              怪物十七
 #flickr:            username
 #codepen:           username
 #keybase:           username
