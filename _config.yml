@@ -3,14 +3,14 @@
 # ----------------------- #
 
 url: https://xuemoxiaoxiong.github.io/
-title: xuemoxiaoxiong's Blog
+title: xmxxiong's Blog
 email: 369434765@qq.com
-author: xuemoxiaoxiong
+author: xmxxiong
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
-copyright: 'Copyright &copy; 2017 xuemoxiaoxiong. All Rights Reserved.'
+copyright: 'Copyright &copy; 2018 xmxxiong. All Rights Reserved.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -29,5 +29,5 @@ social:
     url: http://weibo.com/u/3192316240?topnav=1&wvr=6&topsug=1&is_all=1
   - title: github
     url: https://github.com/xuemoxiaoxiong
-  - title: linkedin
-    url: 
+  - title: weichat
+    url: 369434765
