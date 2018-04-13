@@ -14,5 +14,5 @@ title: My first Blog
   <h2>{{page.titl}}</h2>
 
   <p>最新文章</p>
-  {{ page.excerpt | markdownify }}
+
   # My Q son:SiDan:BaBa Love You!!!
