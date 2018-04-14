@@ -1,11 +1,11 @@
 ---
-layout: notes
-title:  "A Notes with a Video"
+layout: post
+title:  "A Post with a Video"
 date:   2016-03-15
-excerpt: "Custom written notes descriptions are the way to go... if you're not lazy."
+excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
 tag:
 - sample
-- notes
+- post
 - video
 comments: true
 ---

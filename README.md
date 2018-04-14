@@ -11,7 +11,7 @@
 * Responsive
 * Disqus integration
 * Syntax highlighting
-* Optional notes image
+* Optional post image
 * Social icons
 * Page for sharing projects
 * Optional background image

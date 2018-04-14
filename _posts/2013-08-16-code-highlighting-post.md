@@ -1,9 +1,9 @@
 ---
-layout: notes
-title: Syntax Highlighting Notes
+layout: post
+title: Syntax Highlighting Post
 date: 2013-08-16
-excerpt: "Demo notes displaying the various ways of highlighting code in Markdown."
-tags: [sample notes, code, highlighting]
+excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
+tags: [sample post, code, highlighting]
 comments: true
 ---
 
@@ -50,7 +50,7 @@ module Jekyll
       tag_title_prefix = site.config['tag_title_prefix'] || 'Tagged: '
       tag_title_suffix = site.config['tag_title_suffix'] || '&#8211;'
       self.data['title'] = "#{tag_title_prefix}#{tag}"
-      self.data['description'] = "An archive of notes tagged #{tag}."
+      self.data['description'] = "An archive of posts tagged #{tag}."
     end
   end
 end
@@ -108,7 +108,7 @@ module Jekyll
       tag_title_prefix = site.config['tag_title_prefix'] || 'Tagged: '
       tag_title_suffix = site.config['tag_title_suffix'] || '&#8211;'
       self.data['title'] = "#{tag_title_prefix}#{tag}"
-      self.data['description'] = "An archive of notes tagged #{tag}."
+      self.data['description'] = "An archive of posts tagged #{tag}."
     end
   end
 end

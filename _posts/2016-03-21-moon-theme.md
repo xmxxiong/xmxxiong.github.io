@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: post
 title:  "Moon Jekyll Theme"
 date:   2016-04-06
 excerpt: "Minimal, one column Jekyll theme for your blog."
@@ -24,7 +24,7 @@ comments: true
 ## Installation
 * Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
 * Edit `_config.yml` file.
-* Remove sample notes from `_posts` folder and add yours.
+* Remove sample posts from `_posts` folder and add yours.
 * Edit `index.md` file in `about` folder.
 * Change repo name to `YourUserName.github.io`    
      
@@ -84,7 +84,7 @@ url:
 
 #### reading_time
 
-Set true to show reading time for notes. And set `words_per_minute`, default is 200.
+Set true to show reading time for posts. And set `words_per_minute`, default is 200.
 
 #### logo
 Your site's logo. It will show on homepage and navigation menu. Also used for twitter meta tags.
@@ -133,7 +133,7 @@ Moon Theme use [Jekyll Compress](https://github.com/penibelst/jekyll-compress-ht
 
 ### Feature Image
 
-You can set feature image per notes. Just add `feature: some link` to your notes's front matter.
+You can set feature image per post. Just add `feature: some link` to your post's front matter.
 
 ```
 feature: /assets/img/some-image.png
@@ -145,7 +145,7 @@ feaure: http://example.com/some-image.png
 ![Moon Twitter Card](https://cloud.githubusercontent.com/assets/754514/14509719/61c5751c-01d6-11e6-8c29-ce8ccad149bf.png)
 
 ### Comments
-To show disqus comments for your notes add `comments: true` to your notes's front matter.
+To show disqus comments for your post add `comments: true` to your post's front matter.
 
 ---
 

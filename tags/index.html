@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tag Archive
-description: "An archive of notes sorted by tag."
+description: "An archive of posts sorted by tag."
 comments: false
 ---
 
@@ -20,8 +20,8 @@ comments: false
 	<article>
 	<h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
 		<ul>
-    {% for notes in site.tags[this_word] %}{% if notes.title != null %}
-      <li class="entry-title"><a href="{{ site.url }}{{ notes.url }}" title="{{ notes.title }}">{{ notes.title }}</a></li>
+    {% for post in site.tags[this_word] %}{% if post.title != null %}
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
     {% endif %}{% endfor %}
 		</ul>
 	</article><!-- /.hentry -->

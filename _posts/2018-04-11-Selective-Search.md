@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: post
 title: "Object Detection Selective Search"
 date: 2018-04-13
 excerpt: "Selective Search 算法."

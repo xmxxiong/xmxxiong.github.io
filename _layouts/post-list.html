@@ -15,20 +15,20 @@ layout: compress
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
             <div class="content">
-                <div class="notes-title">
+                <div class="post-title">
                     <h1>{{ page.title }}</h1>
                     <a class="btn zoombtn" href="{{site.url}}">
                         <i class="fa fa-home"></i>
                     </a>
                 </div>
-                <div class="notes-list">
-                    {% for notes in site.notes %} 
-                        {% if notes.project == null %}
+                <div class="post-list">
+                    {% for post in site.posts %} 
+                        {% if post.project == null %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="{{ site.url }}{{ notes.url }}">{{ notes.title }}</a>
-                            <p>{{ notes.excerpt }}</p>
-                            <a href="{{ site.url }}{{ notes.url }}" class="btn zoombtn">Read More</a>
+                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                            <p>{{ post.excerpt }}</p>
+                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
                         </li>
                     </ul>
                         {% endif %}
