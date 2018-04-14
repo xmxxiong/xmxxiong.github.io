@@ -87,7 +87,7 @@
 
 @mixin horizontal($startColor : $color_gallery, $midColor :  $color_stack, $endColor : $color_gallery) {
   background-color: $endColor;
-  background-image  : -webkit-linear-gradient(left, $startColor, $midColor, $endColor); 			 // Safari 5.1+, Chrome 10+
+  background-image  : -webkit-linear-gradient(left, rgba(229,230,233,0.5), rgba(229,230,233,0.5), rgba(229,230,233,0.5)); 			 // Safari 5.1+, Chrome 10+
   background-image  : -moz-linear-gradient(left, $startColor, $midColor, $endColor); 					 // FF 3.6+
   background-image  : -ms-linear-gradient(left, $startColor, $midColor, $endColor); 					 // IE10
   background-image  : -o-linear-gradient(left, $startColor, $midColor, $endColor); 						 // Opera 11.10
