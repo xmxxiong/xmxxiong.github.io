@@ -24,7 +24,7 @@ comments: true
 ## Installation
 * Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
 * Edit `_config.yml` file.
-* Remove sample posts from `_posts` folder and add yours.
+* Remove sample notes from `_posts` folder and add yours.
 * Edit `index.md` file in `about` folder.
 * Change repo name to `YourUserName.github.io`    
      
@@ -84,7 +84,7 @@ url:
 
 #### reading_time
 
-Set true to show reading time for posts. And set `words_per_minute`, default is 200.
+Set true to show reading time for notes. And set `words_per_minute`, default is 200.
 
 #### logo
 Your site's logo. It will show on homepage and navigation menu. Also used for twitter meta tags.

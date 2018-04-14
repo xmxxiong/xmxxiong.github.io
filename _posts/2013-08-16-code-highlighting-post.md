@@ -50,7 +50,7 @@ module Jekyll
       tag_title_prefix = site.config['tag_title_prefix'] || 'Tagged: '
       tag_title_suffix = site.config['tag_title_suffix'] || '&#8211;'
       self.data['title'] = "#{tag_title_prefix}#{tag}"
-      self.data['description'] = "An archive of posts tagged #{tag}."
+      self.data['description'] = "An archive of notes tagged #{tag}."
     end
   end
 end
@@ -108,7 +108,7 @@ module Jekyll
       tag_title_prefix = site.config['tag_title_prefix'] || 'Tagged: '
       tag_title_suffix = site.config['tag_title_suffix'] || '&#8211;'
       self.data['title'] = "#{tag_title_prefix}#{tag}"
-      self.data['description'] = "An archive of posts tagged #{tag}."
+      self.data['description'] = "An archive of notes tagged #{tag}."
     end
   end
 end
