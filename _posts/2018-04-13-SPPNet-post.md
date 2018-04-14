@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: notes
 title: "Object Detection SPPNET"
 date: 2018-04-13
 excerpt: "RCNN 算法."
