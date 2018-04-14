@@ -5,7 +5,8 @@
 	border-radius: 3px;
 	text-decoration: none;
 	background: rgba(229,230,233,0.5);
-	color: $color_shark;
+  color: $color_shark;
+  box-shadow: 0 0 20px 1px;
 	&:hover {
 		box-shadow: 0 0 4px 0 rgba($color_shark,0.5);
 		color: $red;
