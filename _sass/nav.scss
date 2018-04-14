@@ -360,7 +360,7 @@ All this is done for any sub-level being entered.
 .dl-menuwrapper button:hover,
 .dl-menuwrapper button.dl-active,
 .dl-menuwrapper ul {
-	background: $comp-color;
+	background: rgba(223,224,228,0.5);
 }
 // Fix for IE
 .dl-menu li {
