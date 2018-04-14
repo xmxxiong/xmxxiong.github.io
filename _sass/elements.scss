@@ -85,7 +85,7 @@
 // hr break
 hr {
 	border: 0;
-	height: 1px;
+	height: 2px;
 	opacity: .8;
     margin: 1em 0;
 	background-image: -webkit-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
@@ -94,7 +94,7 @@ hr {
 	background-image: -o-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
 	&.hr-line {
 		border: 0;
-		height: 1px;
+		height: 2px;
 		opacity: .45;
 		margin: 1em 0;
 		background-image: -webkit-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
