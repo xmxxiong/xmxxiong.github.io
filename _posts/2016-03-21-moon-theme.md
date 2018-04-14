@@ -133,7 +133,7 @@ Moon Theme use [Jekyll Compress](https://github.com/penibelst/jekyll-compress-ht
 
 ### Feature Image
 
-You can set feature image per post. Just add `feature: some link` to your post's front matter.
+You can set feature image per notes. Just add `feature: some link` to your notes's front matter.
 
 ```
 feature: /assets/img/some-image.png
@@ -145,7 +145,7 @@ feaure: http://example.com/some-image.png
 ![Moon Twitter Card](https://cloud.githubusercontent.com/assets/754514/14509719/61c5751c-01d6-11e6-8c29-ce8ccad149bf.png)
 
 ### Comments
-To show disqus comments for your post add `comments: true` to your post's front matter.
+To show disqus comments for your notes add `comments: true` to your notes's front matter.
 
 ---
 

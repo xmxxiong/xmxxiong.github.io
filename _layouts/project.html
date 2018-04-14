@@ -22,13 +22,13 @@ layout: compress
                     </a>
                 </div>
                 <div class="notes-list">
-                    {% for post in site.notes %} 
+                    {% for notes in site.notes %} 
                         {% if notes.project %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ notes.url }}">{{ notes.title }}</a>
                             <p>{{ notes.excerpt }}</p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                            <a href="{{ site.url }}{{ notes.url }}" class="btn zoombtn">Read More</a>
                         </li>
                     </ul>
                       {% endif %}

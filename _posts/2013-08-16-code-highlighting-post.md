@@ -1,9 +1,9 @@
 ---
 layout: notes
-title: Syntax Highlighting Post
+title: Syntax Highlighting Notes
 date: 2013-08-16
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
-tags: [sample post, code, highlighting]
+excerpt: "Demo notes displaying the various ways of highlighting code in Markdown."
+tags: [sample notes, code, highlighting]
 comments: true
 ---
 

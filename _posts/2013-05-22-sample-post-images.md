@@ -1,13 +1,13 @@
 ---
 layout: notes
-title: "A Post with Images"
+title: "A Notes with Images"
 date: 2013-05-22
 excerpt: "Examples and code for displaying images in notes."
-tags: [sample post, images, test]
+tags: [sample notes, images, test]
 comments: true
 ---
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
+Here are some examples of what a notes with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
 
 ### Figures (for images or video)
 
