@@ -2,7 +2,7 @@
 layout: post
 title: "Object Detection SPPNET"
 date: 2018-04-13
-excerpt: "RCNN 算法."
+excerpt: "SPPNet 算法."
 tags: [object detection, Deep learning, SPPNET]
 comments: true
 ---
