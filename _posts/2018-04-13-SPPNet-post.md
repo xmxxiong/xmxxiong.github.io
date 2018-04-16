@@ -24,7 +24,7 @@ comments: true
 
 * **存在的问题:**   
 
-&ensp;&ensp;&ensp;&ensp;1. 和RCNN一样，训练过程仍然是隔离的，提取候选框 | 计算CNN特征| SVM分类 | Bounding Box回归独立训练，大量的中间结果需要转存，无法整体训练参数；  
+&ensp;&ensp;&ensp;&ensp;1. 和RCNN一样，训练过程仍然是隔离的，提取候选框、计算CNN特征、SVM分类、Bounding Box回归独立训练，大量的中间结果需要转存，无法整体训练参数；  
 
 &ensp;&ensp;&ensp;&ensp;2. SPP-Net在无法同时Tuning在SPP-Layer两边的卷积层和全连接层，很大程度上限制了深度CNN的效果；  
 
