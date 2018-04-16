@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fast RCNN"
-date: 2018-04-13
+date: 2018-04-16
 excerpt: "Object Detection Fast RCNN 算法."
 tags: [object detection, Deep learning, Fast RCNN]
 comments: true
@@ -30,4 +30,7 @@ comments: true
 &ensp;&ensp;&ensp;&ensp;1. 每张图片由ss算法产生的约2000的建议框消耗了大量的计算资源和时间；  
 &ensp;&ensp;&ensp;&ensp;2. 没有实现真正意义上的end-to-end的训练模式。  
    
-(https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/FastRCNN/FastRCNN3.png?raw=true){: .image-center} 
+* ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/FastRCNN/FastRCNN3.png?raw=true){: .image-center}   
+
+  参考：[ Fast R-CNN 简单梳理](https://blog.csdn.net/xg123321123/article/details/53067518)  
+  [ Fast R-CNN论文详解](https://blog.csdn.net/WoPawn/article/details/52463853)
