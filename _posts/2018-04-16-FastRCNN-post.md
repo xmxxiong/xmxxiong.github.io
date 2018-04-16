@@ -2,7 +2,7 @@
 layout: post
 title: "Fast RCNN"
 date: 2018-04-16
-excerpt: "Object Detection Fast RCNN 算法."
+excerpt: "2018-04-16 Object Detection Fast RCNN 算法."
 tags: [object detection, Deep learning, Fast RCNN]
 comments: true
 ---
