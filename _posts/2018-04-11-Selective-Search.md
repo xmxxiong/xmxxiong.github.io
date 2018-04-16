@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Object Detection Selective Search"
+title: "Selective Search"
 date: 2018-04-13
-excerpt: "Selective Search 算法."
+excerpt: "Object Detection Selective Search 算法."
 tags: [object detection, Deep learning, Selective Search]
 comments: true
 ---
