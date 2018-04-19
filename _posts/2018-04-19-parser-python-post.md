@@ -43,3 +43,5 @@ p = p.add_option(name1,...,nameN [, **parms])
 |nargs:          |  为需要的动作指定选项参数的数量。默认值为1.如果使用的数字大于1，选项参数将被收集到一个元组中，处理参数时将包含这个元组。            |
 |type:           |  指定选项的类型。有效的类型包括'string'(默认值),'int','long','choice','float'和'complex'。                                   |
 |----
+
+参考：《Python参考手册(第四版.修订版)》
