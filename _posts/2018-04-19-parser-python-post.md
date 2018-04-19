@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Optparser模块（python）:为sys.argv中提供的UNIX风格命令行选项提供高级支持"
-date: 2018-04-16
+date: 2018-04-19
 excerpt: "2018-04-19 Python_Optparser模块."
-tags: [python]
+tags: [python, parser]
 comments: true
 ---
 
@@ -38,7 +38,7 @@ p = p.add_option(name1,...,nameN [, **parms])
 |const:          |  通过'store_const'动作保存常量值。                                                                                         |
 |default:        |  如果未提供，设置选项的默认值。默认情况下，默认值是None。                                                                     |
 |dest:           |  设置用于保存解析期间的选项值的属性名称。名称通常来自选项名称本身。                                                            |
-|help:           |  指定特定选项的帮助文本，如果未提供，帮助中列出此项将不带描述，可以使用值optparser.SUPPRESS_HELP隐藏选项特殊关键字'%default'将被帮助字符串中的选项默认值替换。                                                                                             |
+|help:           |  指定特定选项的帮助文本，如果未提供，帮助中列出此项将不带描述，可以使用值optparser.SUPPRESS_HELP隐藏选项特殊关键字'%default'将被帮助字符串中的选项默认值替换。   |
 |metavar:        |  指定打印帮助文本时使用的选项参数名称。                                                                                      |
 |nargs:          |  为需要的动作指定选项参数的数量。默认值为1.如果使用的数字大于1，选项参数将被收集到一个元组中，处理参数时将包含这个元组。            |
 |type:           |  指定选项的类型。有效的类型包括'string'(默认值),'int','long','choice','float'和'complex'。                                   |
