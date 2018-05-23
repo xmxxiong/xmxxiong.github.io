@@ -22,7 +22,6 @@ comments: true
 * ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/12.jpg?raw=true){: .image-center}  
 * ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/13.jpg?raw=true){: .image-center}  
 * ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/14.jpg?raw=true){: .image-center}  
-* ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/1.jpg?raw=true){: .image-center}  
 
 #Reference#：
 [Momentum](http://doi.org/10.1016/S0893-6080(98)00116-6.)
