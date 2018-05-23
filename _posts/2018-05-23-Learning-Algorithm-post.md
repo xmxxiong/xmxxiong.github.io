@@ -8,20 +8,20 @@ comments: true
 ---
 ## **学习优化算法** 
 
-* ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/1.jpg?raw=true){: .image-center}  
-* ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/2.jpg?raw=true){: .image-center}  
-* ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/3.jpg?raw=true){: .image-center}  
-* ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/4.jpg?raw=true){: .image-center}  
-* ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/5.jpg?raw=true){: .image-center}  
-* ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/6.jpg?raw=true){: .image-center}  
-* ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/7.jpg?raw=true){: .image-center}  
-* ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/8.jpg?raw=true){: .image-center}  
-* ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/9.jpg?raw=true){: .image-center}  
-* ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/10.jpg?raw=true){: .image-center}  
-* ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/11.jpg?raw=true){: .image-center}  
-* ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/12.jpg?raw=true){: .image-center}  
-* ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/13.jpg?raw=true){: .image-center}  
-* ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/14.jpg?raw=true){: .image-center}  
+ ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/1.jpg?raw=true){: .image-center}  
+ ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/2.jpg?raw=true){: .image-center}  
+ ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/3.jpg?raw=true){: .image-center}  
+ ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/4.jpg?raw=true){: .image-center}  
+ ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/5.jpg?raw=true){: .image-center}  
+ ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/6.jpg?raw=true){: .image-center}  
+ ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/7.jpg?raw=true){: .image-center}  
+ ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/8.jpg?raw=true){: .image-center}  
+ ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/9.jpg?raw=true){: .image-center}  
+ ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/10.jpg?raw=true){: .image-center}  
+ ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/11.jpg?raw=true){: .image-center}  
+ ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/12.jpg?raw=true){: .image-center}  
+ ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/13.jpg?raw=true){: .image-center}  
+ ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/14.jpg?raw=true){: .image-center}  
 
 ###Reference：
 [Momentum](http://doi.org/10.1016/S0893-6080(98)00116-6.)
