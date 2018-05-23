@@ -23,7 +23,7 @@ comments: true
 * ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/13.jpg?raw=true){: .image-center}  
 * ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Learning_algorithm/14.jpg?raw=true){: .image-center}  
 
-#Reference#：
+###Reference：
 [Momentum](http://doi.org/10.1016/S0893-6080(98)00116-6.)
 [RmsProp](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
 [AdaGrad](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)  
