@@ -15,7 +15,6 @@
 // titles
 .title {
 	text-align: center;
-	font-family: $font3;
 	font-weight: bold;
 	> p {
 		text-align: center;
@@ -61,6 +60,7 @@ h3.title a {
             }
 		}
 		p {
+			font-family: $font3;
 			font-weight: lighter;
 			@include font-rem(16);
 		}
