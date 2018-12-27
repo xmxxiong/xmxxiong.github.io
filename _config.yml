@@ -12,14 +12,11 @@ url:                https://xmxxiong.github.io
 
 # Jekyll
 permalink:          /:title/
-markdown:           kramdown
+markdown:           redcarpet
 highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
+redcarpet:
+    extensions: [ "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
+
 mathjax:            true
 sass:
   sass_dir:         _sass
