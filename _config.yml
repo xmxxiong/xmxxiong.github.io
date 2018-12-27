@@ -13,7 +13,7 @@ url:                https://xmxxiong.github.io
 # Jekyll
 permalink:          /:title/
 markdown:           redcarpet
-highlighter:        rouge
+# highlighter:        rouge
 redcarpet:
     extensions: [ "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
 
