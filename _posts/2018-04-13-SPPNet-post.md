@@ -8,13 +8,14 @@ comments: true
 ---
 ## **SPP_Net 算法** 
 
+* **动机**：固定的图片输入会影响模型对不同尺度的图片的识别精度
 &ensp;&ensp;&ensp;&ensp;1. 提出了空间金字塔池化层，用于固定网络位于全连接层的输入大小；  
 &ensp;&ensp;&ensp;&ensp;2. 在特征图上找对应的候选区。  
 
 * **流程:**   
 
 &ensp;&ensp;&ensp;&ensp;1. 通过select search从一张图片生成1K~2K个候选区；  
-&ensp;&ensp;&ensp;&ensp;2. 特征提取先把待测图片整张进行特征提取，然后在feature map上 找到各个候选框的区域，然后对每个候选框采用空间金字塔池化，得到固定长度的特征向量；  
+&ensp;&ensp;&ensp;&ensp;2. 把待测图片整张进行特征提取，然后在feature map上 找到各个候选框的映射区域，然后对每个候选框采用空间金字塔池化，得到固定长度的特征向量；  
 &ensp;&ensp;&ensp;&ensp;3. 特征送入每一类的SVM分类器，判断是否属于该类别。  
 
 * ![](https://github.com/xmxxiong/xmxxiong.github.io/blob/master/assets/img/Spp_Net/spp_1.png?raw=true){: .image-center}  
