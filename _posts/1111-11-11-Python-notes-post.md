@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Python Notes"
-date: 0000-00-00
-excerpt: "0000-00-00 Python Notes."
+date: 1111-11-11
+excerpt: "1111-11-11 Python Notes."
 tags: [python]
 comments: true
 ---
