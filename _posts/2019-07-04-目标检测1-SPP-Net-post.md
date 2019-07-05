@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "SPPNET"
-date: 2018-04-13
-excerpt: "2018-04-13 Object Detection SPPNet 算法."
+title: "目标检测-SPP-NET"
+date: 2019-07-04
+excerpt: "2019-07-04 目标检测-SPP-NET."
 tags: [object detection, Deep learning, SPPNET]
 comments: true
 ---
